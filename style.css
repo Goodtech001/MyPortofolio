@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+.form-page{
+    text-align: center;
+    margin-top: 150px;
+}
+form input, form textarea{
+    width: 30%;
+    border: 0;
+    outline: n;
+    background: #fff;
+    padding: 15px;
+    margin: 15px 0;
+    color: black;
+    font-size: 18px;
+    border-radius: 6px;
+}
+.log-in {
+    width: fit-content;
+    width: 30%;
+    border: 0;
+    outline: n;
+    background: rgba(0, 0, 255, 0.479);
+    padding: 15px;
+    margin: 15px 0;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 6px;
+    margin-left: 35%;
+}
+.log-in p{
+    text-justify: autoss;
+}
+.OR{
+    font-weight: 200;
+    color: gray;
+    margin-top: 30px;
+}
+.ending p {
+    color: blue;
+}
+.ending{
+    margin-top: 30px;
+}
+
